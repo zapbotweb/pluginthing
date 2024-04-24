@@ -1,0 +1,4 @@
+name: pluginthing
+version: '${project.version}'
+main: me.pluginthing.pluginthing.Pluginthing
+api-version: '1.20'
